@@ -1,3 +1,3 @@
-Advice gnerator app
+# Advice gnerator app
 
 using html, css and javascript
